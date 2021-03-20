@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**karanbir-singh/karanbir-singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## Hi there 👋
 
 - 🔭 I’m currently an IT student in IIS Benedetto Castelli (BS), in particular I'm in the 5th year.
 - 🧠 I’m currently learning HTML+CSS+Javascript, SQL, PHP, React.js, Express.js
@@ -13,6 +8,5 @@ Here are some ideas to get you started:
 - 📧 Email
   -  karanbir.jsm@gmail.com
   -  karanbir.singh@outlook.it
-
 
 
