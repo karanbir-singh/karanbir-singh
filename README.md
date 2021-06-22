@@ -6,7 +6,9 @@
 - 💬 Ask me about everything you want to know about me or my repositories
 ### 📫 Contacts:
 - 📧 Email
-  -  karanbir.jsm@gmail.com
-  -  karanbir.singh@outlook.it
+    -  karanbir.jsm@gmail.com
+    -  karanbir.singh@outlook.it
+- 📮 Linkedin
+    - https://www.linkedin.com/in/karanbir-singh-621605215/ 
 
 
