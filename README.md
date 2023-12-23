@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I am currently a student at Politecnico di Milano, in particular I am in my second year in Computer Science And Engineering.
+- 🔭 I am currently a student at Politecnico di Milano, in particular I am in my third year in Computer Science And Engineering.
 - 💻 In the highschool, I learned to program in:
     - C/C++
     - Java (including JavaFX)
